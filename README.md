@@ -13,11 +13,11 @@ I'm a passionate software developer specializing in web frontend development, wi
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Javascript, Java, Python, Php 
+- **Languages:** Javascript, Java, R, Php, Python
 - **Frameworks:** Spring Boot, Hibernate, Laravel Framework  
-- **Frontend:** React  
-- **Databases:** MySQL, Microsoft SQL Server  
-- **Tools:** Git, Visual Studio, IntelliJ IDEA, Webstorm  
+- **Frontend:** Bootstrap, Tailwind CSS, Vue.js, React.js 
+- **Databases:** MySQL 
+- **Tools:** Git, Visual Studio, IntelliJ IDEA, WebStorm  
 
 ---
 
