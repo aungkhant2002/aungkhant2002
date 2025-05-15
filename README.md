@@ -3,9 +3,6 @@
 I'm a passionate software developer specializing in web frontend development, with a strong focus on creating delightful user experiences. I enjoy building innovative solutions and continuously expanding my skills.
 
 - 🌍 **Location:** Yangon, Myanmar  
-- 📖 **Currently Learning:**  
-  - **Frameworks:** Spring Boot, Hibernate, React  
-  - **Technologies:** REST API development  
 - 💼 **LinkedIn:** [aungkhant2002](https://www.linkedin.com/in/aungkhant2002/)  
 - 📫 **Email:** [aung.khant@ucsy.edu.mm](mailto:aung.khant@ucsy.edu.mm)
 
@@ -13,11 +10,11 @@ I'm a passionate software developer specializing in web frontend development, wi
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Javascript, Java, R, Php, Python
-- **Frameworks:** Spring Boot, Hibernate, Laravel Framework  
-- **Frontend:** Bootstrap, Tailwind CSS, Vue.js, React.js 
+- **Languages:** Javascript, Java, C#, R, Php, Python
+- **Frameworks:** Spring Boot, Hibernate, Laravel Framework, .NET Framework  
+- **Frontend:** Bootstrap, Tailwind CSS, React.js 
 - **Databases:** MySQL 
-- **Tools:** Git, Visual Studio, IntelliJ IDEA, WebStorm  
+- **Tools:** Git, Visual Studio, VS Code, IntelliJ IDEA, WebStorm  
 
 ---
 
