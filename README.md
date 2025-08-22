@@ -1,6 +1,6 @@
 # Hi there, I'm Aung Khant! 👋
 
-I'm a passionate software developer specializing in web frontend development, with a strong focus on creating delightful user experiences. I enjoy building innovative solutions and continuously expanding my skills.
+I'm a passionate software developer specializing in web development, with a strong focus on creating delightful user experiences. I enjoy building innovative solutions and continuously expanding my skills.
 
 - 🌍 **Location:** Yangon, Myanmar  
 - 💼 **LinkedIn:** [aungkhant2002](https://www.linkedin.com/in/aungkhant2002/)  
