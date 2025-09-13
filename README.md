@@ -13,23 +13,14 @@ I'm a passionate software developer specializing in web development, with a stro
 - **Languages:** Javascript, Java, C#, R, Php, Python
 - **Frameworks:** Spring Boot, Hibernate, Laravel Framework, .NET Framework  
 - **Frontend:** Bootstrap, Tailwind CSS, React.js 
-- **Databases:** MySQL 
-- **Tools:** Git, Visual Studio, VS Code, IntelliJ IDEA, WebStorm  
+- **Databases:** MySQL, PostgreSQL 
+- **Tools:** Git, Visual Studio, VS Code, IntelliJ IDEA, WebStorm, PhpStorm
 
 ---
 
-
-
-## 📈 GitHub Stats
-
-![Aung Khant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungkhant2002&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aungkhant2002&layout=compact&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
-- **Facebook:** [aungkhant2002](https://www.facebook.com/aungkhant2002)  
-- **Instagram:** [aung.khant2002](https://www.instagram.com/aung.khant2002/)  
+- **Facebook:** [aungkhant2002](https://www.facebook.com/aungkhant2002)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
