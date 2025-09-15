@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Aung+Khant!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Aung+Khant;%F0%9F%92%BB+Welcome+to+my+portfolio!;%F0%9F%9A%80+Over+4+years+of+programming+exp;%F0%9F%93%9A+Always+learning+new+technologies)](https://git.io/typing-svg)
 
 I'm a passionate software developer specializing in web development, with a strong focus on creating delightful user experiences. I enjoy building innovative solutions and continuously expanding my skills.
 
