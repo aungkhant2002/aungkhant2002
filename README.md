@@ -20,13 +20,13 @@ JavaScript • PHP • Java • C# • Python • R
 Laravel • Spring Boot • Hibernate • .NET  
 
 ### Frontend
-React.js • Tailwind CSS • Bootstrap  
+TypeScript • React.js • Tailwind CSS • Bootstrap  
 
 ### Databases
 MySQL • PostgreSQL  
 
-### Tools
-Git • GitHub • VS Code • IntelliJ IDEA • PhpStorm • WebStorm • Visual Studio  
+### DevOps & Tooling
+Docker • Git • GitHub • WebStorm • PhpStorm • IntelliJ IDEA • VS Code
 
 ---
 
