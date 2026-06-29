@@ -5,6 +5,7 @@
 `Idea` → `System Design` → `Development` → `Deployment`
 
 Yangon, Myanmar • 
+[aungkhant.dev](https://aungkhant.dev) •
 [LinkedIn](https://www.linkedin.com/in/aungkhant2002/) • 
 [Email](mailto:aung.khant@ucsy.edu.mm) • 
 [Facebook](https://www.facebook.com/aungkhant2002)
@@ -52,4 +53,4 @@ Docker • Git • GitHub • WebStorm • PhpStorm • IntelliJ IDEA • VS Cod
 
 ## Availability
 
-Open to full-stack engineering roles, product-focused opportunities, and collaborative development projects.
+Open to full-stack engineering roles, product-focused opportunities, and collaborative development projects. You can check out my latest work and case studies at [aungkhant.dev](https://aungkhant.dev).
