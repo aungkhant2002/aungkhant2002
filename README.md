@@ -5,29 +5,10 @@
 `Idea` → `System Design` → `Development` → `Deployment`
 
 Yangon, Myanmar • 
-[aungkhant.dev](https://aungkhant.dev) •
+[aungkhant.dev](https://www.aungkhant.dev) •
 [LinkedIn](https://www.linkedin.com/in/aungkhant2002/) • 
 [Email](mailto:aung.khant@ucsy.edu.mm) • 
 [Facebook](https://www.facebook.com/aungkhant2002)
-
----
-
-## Technical Stack
-
-### Languages
-JavaScript • PHP • Java • C# • Python • R  
-
-### Backend
-Laravel • Spring Boot • Hibernate • .NET  
-
-### Frontend
-TypeScript • React.js • Tailwind CSS • Bootstrap  
-
-### Databases
-MySQL • PostgreSQL  
-
-### DevOps & Tooling
-Docker • Git • GitHub • WebStorm • PhpStorm • IntelliJ IDEA • VS Code
 
 ---
 
@@ -53,4 +34,4 @@ Docker • Git • GitHub • WebStorm • PhpStorm • IntelliJ IDEA • VS Cod
 
 ## Availability
 
-Open to full-stack engineering roles, product-focused opportunities, and collaborative development projects. You can check out my latest work and case studies at [aungkhant.dev](https://aungkhant.dev).
+Open to full-stack engineering roles, product-focused opportunities, and collaborative development projects. You can check out my latest work and case studies at [aungkhant.dev](https://wwww.aungkhant.dev).
