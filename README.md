@@ -12,6 +12,26 @@ My work covers API-first development, authentication workflows, booking and sche
 
 ---
 
+## Technology Stack
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,php,java,laravel,spring,react,tailwind,bootstrap,postgres,mysql,git,docker,ubuntu,nginx&perline=15"
+    alt="Technology Stack"
+  />
+</p>
+<p>
+ <img
+    src="https://cdn.simpleicons.org/n8n/EA4B71"
+    alt="n8n"
+    title="n8n"
+    width="48"
+    height="48"
+  />
+</p>
+
+---
+
 ## Engineering Focus
 
 - Full-stack web application development
