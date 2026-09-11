@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Aung+Khant;%F0%9F%92%BB+Welcome+to+my+portfolio!;%F0%9F%9A%80+Over+5+years+of+programming+exp;%F0%9F%93%9A+Always+learning+new+technologies)](https://git.io/typing-svg)
 
-### Full-Stack Software Engineer  
+### Software Engineer  
 
 `Idea` → `System Design` → `Development` → `Deployment`
 
-I design and build production-ready web applications with a focus on clean architecture, scalable backend systems, and practical user experiences.
-
-My work covers API-first development, authentication workflows, booking and scheduling systems, admin dashboards, notification systems, and business rule implementation.
+> I build production-ready web applications with an emphasis on resilient backend architecture, clean API design, and intuitive user experiences.
+>
+> My engineering background focuses on solving complex business logic, designing transactional database workflows, and scaling systems from concept to deployment.
 
 <p align="left">
   <a href="https://aungkhant.dev" target="_blank">
@@ -48,24 +48,14 @@ My work covers API-first development, authentication workflows, booking and sche
 
 ---
 
-## Engineering Focus
+## System Architecture & Domain Experience
 
-- Full-stack web application development
-- Backend architecture and API design
-- Authentication, authorization, and role-based access control
-- Database design and business logic modeling
-- Admin dashboards and operational tools
-- Clean, maintainable, testable code
-
----
-
-## Selected Experience Areas
-
-- Booking and scheduling platforms
-- Policy-driven pricing and availability systems
-- Notification and event-driven workflows
-- Management panels and internal business tools
-- Modular full-stack application architecture
+| Core Focus | Architectural Patterns | Domain Experience |
+| :--- | :--- | :--- |
+| **Backend & APIs** | RESTful APIs, RBAC, OAuth, JWT | Booking & Scheduling Engines |
+| **Data & Workflows** | Schema Design, Event Queues, Caching | Dynamic Pricing & Policy Systems |
+| **Frontend & Tools** | Responsive UI, Admin Dashboards | Event-Driven Notifications & Webhooks |
+| **DevOps & Quality** | Containerization, CI/CD, Nginx | Business Process Automation (n8n) |
 
 ---
 
@@ -73,11 +63,16 @@ My work covers API-first development, authentication workflows, booking and sche
 
 <p>
   <img src="https://img.shields.io/badge/Degree-B.C.Sc._(Software_Engineering)-1E293B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/University-University_of_Computer_Studies,_Yangon_(UCSY)-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="University of Computer Studies, Yangon (UCSY)" />
+  <a href="https://ucsy.edu.mm" target="_blank">
+    <img src="https://img.shields.io/badge/University-University_of_Computer_Studies,_Yangon_(UCSY)-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="University of Computer Studies, Yangon (UCSY)" />
+  </a>
 </p>
 
 ---
 
 ## Availability
 
-Open to full-stack engineering roles, product-focused opportunities, and collaborative software projects. You can check out my latest work and case studies at [aungkhant.dev](https://aungkhant.dev).
+> ### 🟢 Status: Open to Opportunities
+> I am open to **Full-Stack Engineering roles**, **Product Engineering opportunities**, and **collaborative software initiatives**. 
+> 
+> Explore my technical case studies, live production builds, and architectural breakdowns at **[aungkhant.dev](https://aungkhant.dev)**.
