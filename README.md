@@ -10,7 +10,7 @@ My work covers API-first development, authentication workflows, booking and sche
 
 <p align="left">
   <a href="https://aungkhant.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aungkhant.dev-000000?style=plastic&logo=globe&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-aungkhant.dev-000000?style=plastic&logo=vcard&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aungkhant2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aungkhant2002-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,6 +66,15 @@ My work covers API-first development, authentication workflows, booking and sche
 - Notification and event-driven workflows
 - Management panels and internal business tools
 - Modular full-stack application architecture
+
+---
+
+## Education
+
+<p>
+  <img src="https://img.shields.io/badge/Degree-B.C.Sc._(Software_Engineering)-1E293B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/University-University_of_Computer_Studies,_Yangon_(UCSY)-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="University of Computer Studies, Yangon (UCSY)" />
+</p>
 
 ---
 
