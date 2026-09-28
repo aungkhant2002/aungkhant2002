@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/aungkhant2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aungkhant2002-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aungkhant2002.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aungkhant2002.dev-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:hello@aungkhant.dev">
+    <img src="https://img.shields.io/badge/Gmail-hello@aungkhant.dev-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
