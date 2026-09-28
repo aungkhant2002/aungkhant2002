@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/aungkhant2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aungkhant2002-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hello@aungkhant.dev">
-    <img src="https://img.shields.io/badge/Gmail-hello@aungkhant.dev-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+   <a href="mailto:hello@aungkhant.dev">
+    <img src="https://img.shields.io/badge/Email-hello@aungkhant.dev-EA4335?style=plastic&logo=mail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -61,12 +61,12 @@
 
 ## Education
 
-<p>
+<div style="display: flex; flex-wrap: nowrap; gap: 8px; align-items: center; overflow-x: auto;">
   <img src="https://img.shields.io/badge/Degree-B.C.Sc._(Software_Engineering)-1E293B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
   <a href="https://ucsy.edu.mm" target="_blank">
     <img src="https://img.shields.io/badge/University-University_of_Computer_Studies,_Yangon_(UCSY)-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="University of Computer Studies, Yangon (UCSY)" />
   </a>
-</p>
+</div>
 
 ---
 
